@@ -1,20 +1,8 @@
-# IBM_Capstone_Advance_DS
+## Getting Started with Python on IBM Cloud
 
-By Marco Alberto Camarena Ospino
+Sample Python Dash app (Flask inside) with instruction on setting up a development environment and deploying to IBM Cloud.
 
-## Predict average spend on Food & Beverages
-
-### Problem Statement
-The company, the most preferred holiday resort chain in India makes significant  revenue from Food and Beverages (F&B) sales in their resort. The members of the  loyalty program are offered an array of items in either open buffet or at several restaurants. 
-
-**Given the information related to resort, program member, reservation etc. the task is to predict average spend per room night on food and beverages for each reservation.**
-
-[Video presentation](Unlisted)
-
-## Python on IBM Cloud
-### Instruction on setting up a development environment and deploying Python Dash app (Flask inside) with  to IBM Cloud.
-
-#### Prerequisites
+## Prerequisites
 
 You'll need the following:
 * [IBM Cloud account](https://console.ng.bluemix.net/registration/)
