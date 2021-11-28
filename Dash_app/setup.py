@@ -15,7 +15,8 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name='dash-capstone',
+    name='
+IBM_Capstone_Advance_DS',
     version='1.0.0',
     description='IBM Coursera Advanced Data Science Capstone Project - Demo App',
     long_description=long_description,
